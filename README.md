@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Gautam</h1>
-<h3 align="center">An aspiring Artificial and Data Science Student</h3>
+<h3 align="center">An aspiring Artificial Intelligence and Data Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vickygautam88&label=Profile%20views&color=0e75b6&style=flat" alt="vickygautam88" /> </p>
 
